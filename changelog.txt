@@ -1,0 +1,99 @@
+*** Change Log ***
+18 september 2017- Version 1.0
+	INITIAL RELEASE
+
+19 September 2017- Version 1.1
+	FIXED! Some styling issues
+	UPDATED! Template one page
+
+20 September 2017- Version 1.2
+	UPDATED! Revolution slider plugin
+	UPDATED! Visual Composer plugin
+	UPDATED! Capital core plugin
+
+27 September 2017- Version 1.3
+	FIXED! Pagination coming above the posts in VC shortcodes
+	FIXED! Style not working for VC section in footer.php
+	UPDATED! Capital Core plugin
+
+22 October 2017- Version 1.4
+	UPDATED! Revolution slider plugin
+	UPDATED! Visual Composer plugin
+
+05 December 2017- Version 1.4.1
+	UPDATED! Revolution slider plugin
+	UPDATED! Visual Composer plugin
+	FIXED! Some styling Bugs
+	IMPROVED! Project filters to show only selected categories in vc shortcake
+	FIXED! Footer bottom skin not working
+
+07 February 2018- Version 1.5
+	UPDATED! TGM Class to fix a bug in installing bulk plugins
+	UPDATED! Capital core plugin to fix a styling bug in demo importer
+	UPDATED! Woocommerce function to support product sliders and gallery
+	UPDATED! Woocommerce header cart module to support live updates
+	FIXED! Custom styling for featured block shortcode not working
+	FIXED! Category links in project shortcode not working
+	FIXED! Some styling bugs
+
+31 March 2018- Version 1.5.1
+	UPDATED! Revolution slider plugin
+	UPDATED! Visual Composer plugin
+	UPDATED! WPML Config File
+
+02 January 2019- Version 1.6
+	UPDATED! Revolution slider plugin
+	UPDATED! WPBakery Page Builder plugin
+	UPDATED! Capital Core Plugin for Gutenberg compatibility
+	UPDATED! Custom widgets to support PHP 7.2
+
+10 June 2019- Version 1.7
+	UPDATED! Revolution slider plugin
+	UPDATED! WPBakery Page Builder plugin
+	UPDATED! Capital Core Plugin
+
+25 June 2019- Version 1.7.1
+	UPDATED! Capital Core plugin
+
+22 September 2019- Version 1.7.2
+	UPDATED! Revolution slider plugin
+	UPDATED! WPBakery Page Builder plugin
+	FIXED! An issue with page header revolution slider
+
+08 June 2020- Version 1.8
+	UPDATED! Capital Core Plugin
+	UPDATED! WPBakery Page Builder Plugin
+	UPDATED! Revolution Slider Plugin
+	FIXED! Some bugs with PHP 7.3+
+
+14 August 2020- Version 1.9
+	UPDATED! Compatibility with WordPress version 5.5
+	UPDATED! Revolution Slider Plugin
+	FIXED! Social sharing options not working
+
+09 November 2020- Version 2.0
+	UPDATED! WPBakery Page Builder Plugin
+	UPDATED! Revolution Slider Plugin
+	UPDATED! Envato Market Plugin
+
+15 December 2020- Version 2.1
+	UPDATED! Capital Core Plugin
+	UPDATED! WPBakery Page Builder Plugin
+	UPDATED! Revolution Slider Plugin
+	UPDATED! Envato Market Plugin
+	FIXED! Compatibility bugs with WP version 5.6
+
+03 April 2021- Version 2.2
+	UPDATED! WPBakery Page Builder Plugin
+	UPDATED! Revolution Slider Plugin
+	UPDATED! Envato Market Plugin
+	FIXED! Compatibility bugs with WP version 5.7
+
+07 August 2021- Version 2.3
+	UPDATED! WPBakery Page Builder Plugin
+	UPDATED! Revolution Slider Plugin
+
+04 January 2022- Version 2.4
+	UPDATED! Capital Core Plugin
+	UPDATED! WPBakery Page Builder Plugin
+	UPDATED! Revolution Slider Plugin
